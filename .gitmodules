@@ -1,0 +1,6 @@
+[submodule "esp32-sha256-calculator-worker"]
+	path = esp32-sha256-calculator-worker
+	url = https://github.com/cule925/esp32-sha256-calculator-worker
+[submodule "rpi4b-sha256-calculator-controller"]
+	path = rpi4b-sha256-calculator-controller
+	url = https://github.com/cule925/rpi4b-sha256-calculator-controller
