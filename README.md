@@ -24,8 +24,10 @@ The *puzzle_id* identifies the offset solution to the corresponding inputs. It m
 
 Both Raspberry Pi and ESP32 microcontrollers operate at 3.3V logic levels. No logic level shifter is needed for I2C or GPIO connections.
 
-![Schematic.](images/schematic.png)
+![Schematic I2C.](images/schematic_i2c.png)
 
 ## Schematic - SPI variant
 
-**TODO:**
+Both Raspberry Pi and ESP32 microcontrollers operate at 3.3V logic levels. No logic level shifter is needed for SPI or GPIO connections.
+
+![Schematic SPI.](images/schematic_spi.png)
